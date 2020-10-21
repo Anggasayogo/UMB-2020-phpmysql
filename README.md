@@ -20,7 +20,7 @@ umb_2020
 import file umb_2020.sql ke databse yang sudah dibuat
 dan jalankan di :
 ```
-localhost/namafilerscript
+localhost/namafolderscript
 ```
 
 ## happy success instalation
